@@ -21,10 +21,10 @@ O objetivo deste projeto é desenvolver um site moderno, responsivo e otimizado 
 
 ## 👥 Equipe de Desenvolvimento
 
-- *Giovani* – Líder do projeto / Setup inicial
-- *Leticia* – Desenvolvedora Front-End (componentes)
-- *Gabriel* – Desenvolvedor Front-End (rotas)
-- *Calebe* – Desenvolvedor Front-End (layout e UX)
+- *Giovani* – Líder do projeto
+- *Leticia* – Desenvolvedora Front-End
+- *Gabriel* – Desenvolvedor Front-End
+- *Calebe* – Desenvolvedor Front-End
 - *Duda* – Social Media / Conteúdo e design
 
 ---
